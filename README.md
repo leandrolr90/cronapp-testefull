@@ -1,6 +1,6 @@
 # Introdução
 
-Esta é uma aplicação criada com o CronApp IDE.
+Esta é uma aplicação criada com o CronApp IDE. Edit do Eclipse.
 
 ## Pré-Requisitos
 
